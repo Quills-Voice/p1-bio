@@ -4,7 +4,7 @@
 body {
 	background: #000;
 	color: #fff;
-	font-family: 'Lora', serif;
+	font-family: 'Raleway', sans-serif;
 	text-align: justify;
 }
 
@@ -15,8 +15,16 @@ h1
 
 	}
 
- a: link {
+ a:link {
  	color: #fff;
+ 	text-decoration: none;
+ 	
+
+ }
+
+ a:hover {
+ 	color: #870000;
+ 	text-decoration: none;
  }
 
 div {
